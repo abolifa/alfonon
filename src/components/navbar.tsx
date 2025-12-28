@@ -61,7 +61,7 @@ export default function Navbar() {
         {/* Right Side Actions */}
         <div className="flex items-center gap-3">
           <a
-            href="https://wa.me/218914554001"
+            href="https://wa.me/218912135345"
             target="_blank"
             rel="noopener noreferrer"
             className="border rounded-full p-2 flex items-center justify-center transition-colors duration-300 hover:bg-green-500"
@@ -70,7 +70,7 @@ export default function Navbar() {
           </a>
 
           <a
-            href="mailto:info@almontaha.ly"
+            href="mailto:info@alfunon.com.ly"
             target="_blank"
             rel="noopener noreferrer"
             className="border rounded-full p-2 flex items-center justify-center transition-colors duration-300 hover:bg-gray-500"
